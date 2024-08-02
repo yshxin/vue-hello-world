@@ -1,11 +1,11 @@
 <template>
   <div>
-    <HelloWord></HelloWord>
+    <HelloWorld></HelloWorld>
   </div>
 </template>
 
 <script setup lang="ts">
-import HelloWord from './components/HelloWord.vue'
+import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <style scoped>

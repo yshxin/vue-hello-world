@@ -1,6 +1,6 @@
 <template>
     <div class="centered-text" :style="gradientStyle">
-      Hello Word
+      Hello World
     </div>
   </template>
   
